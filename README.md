@@ -3,9 +3,9 @@
 # Watch completed GIF of Free Body Diagram from Python Code under:
 tapping_foot_newton.gif
 
-# -------------------------------------------------------------
+# ------------------------------------------------
 # Instructions for Running the Code
-# -------------------------------------------------------------
+# -------------------------------------------------
 
 ## Technologies Used
 - Python
