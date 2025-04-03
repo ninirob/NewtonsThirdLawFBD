@@ -1,5 +1,8 @@
 # N Roberts
 # Newtons Third Law Project PHY 150
+# Watch completed GIF of Free Body Diagram from Python Code under:
+tapping_foot_newton.gif
+
 # -------------------------------------------------------------
 # Instructions for Running the Code
 # -------------------------------------------------------------
